@@ -1,3 +1,1 @@
-console.log('i am programming in javascript');
-
-console.log('but the changes are not ideal');
+console.log('it is important to always update your github page');
